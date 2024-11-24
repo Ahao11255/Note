@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "f0c4800d1db8a30d",
+    "type": "split",
+    "children": [
+      {
+        "id": "02a0016f9deb94ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb4510dd623eab40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "原码 反码 补码.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "原码 反码 补码"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "500e626b4e86afc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8749db7b6bd5e083",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5a5eccf01883e3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c65997736ffc3eb6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "284721100d32a7d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f88e45744752278",
+    "type": "split",
+    "children": [
+      {
+        "id": "497b558cca2159b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b4ca7f775b20dfc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JUnit单元测试/JUnit单元测试.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "JUnit单元测试 的反向链接列表"
+            }
+          },
+          {
+            "id": "d109024e7deec093",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JUnit单元测试/JUnit单元测试.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "JUnit单元测试 的出链列表"
+            }
+          },
+          {
+            "id": "e1c43bd0aa2b6968",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a28bdf380669e657",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "原码 反码 补码.md"
+              },
+              "icon": "lucide-list",
+              "title": "原码 反码 补码 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "bb4510dd623eab40",
+  "lastOpenFiles": [
+    "JUnit单元测试.md",
+    "MySQL的DML操作.md",
+    "switch和if的使用场景.md",
+    "JUnit单元测试/JUnit单元测试.md",
+    "Java笔记.md",
+    "desktop.ini",
+    "JUnit单元测试/图片/自行导入jar包.png",
+    "().md",
+    "屏幕截图 2024-11-21 154920.png.md",
+    "JUnit单元测试/图片/使用eclipseSDK环境2.png",
+    "JUnit单元测试/图片/使用eclipseSDK环境3.png",
+    "JUnit单元测试/图片/使用eclipseSDK环境1.png",
+    "JUnit单元测试/图片/使用eclipseSDK环境.png",
+    "JUnit单元测试/图片/使用eclipseSDK.png",
+    "JUnit单元测试/图片/屏幕截图 2024-11-21 154849.png",
+    "JUnit单元测试/图片/屏幕截图 2024-11-21 154920.png",
+    "JUnit单元测试/图片/屏幕截图 2024-11-21 154907.png",
+    "JUnit单元测试/图片/屏幕截图 2024-11-21 154513.png",
+    "Java面向对象编程.md"
+  ]
+}
