@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "02a0016f9deb94ec",
+        "id": "b636db0404cbbacf",
         "type": "tabs",
         "children": [
           {
-            "id": "bb4510dd623eab40",
+            "id": "32de53b3a039c524",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "原码 反码 补码.md",
+                "file": "ArchLinux下的java-14-openjdk的安装.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "原码 反码 补码"
+              "title": "ArchLinux下的java-14-openjdk的安装"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -139,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "原码 反码 补码.md"
+                "file": "ArchLinux下的java-14-openjdk的安装.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "原码 反码 补码 的大纲"
+              "title": "ArchLinux下的java-14-openjdk的安装 的大纲"
             }
           }
         ],
@@ -162,26 +166,32 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bb4510dd623eab40",
+  "active": "32de53b3a039c524",
   "lastOpenFiles": [
+    "Pictures/deb包的转化.png",
+    "Pictures/检查java环境.png",
+    "().md",
+    "ArchLinux下的java-14-openjdk的安装.md",
+    "Pictures/切换本地java版本.png",
+    "Pictures/切换本地java版本2.png",
+    "Pictures/切换本地java版本1.png",
+    "Pictures/AUR安装jdk14是编译环境错误.png",
     "JUnit单元测试.md",
+    "Java面向对象编程.md",
+    "Pictures/AUR中的jdk14.png",
+    "Pictures",
+    "原码 反码 补码.md",
+    "树.md",
+    "常用算法.md",
+    "JUnit单元测试/JUnit单元测试.md",
+    "JUnit单元测试/图片/自行导入jar包.png",
+    "JUnit单元测试/图片/使用eclipseSDK环境2.png",
+    "JUnit单元测试/图片/使用eclipseSDK环境1.png",
     "MySQL的DML操作.md",
     "switch和if的使用场景.md",
-    "JUnit单元测试/JUnit单元测试.md",
     "Java笔记.md",
     "desktop.ini",
-    "JUnit单元测试/图片/自行导入jar包.png",
-    "().md",
     "屏幕截图 2024-11-21 154920.png.md",
-    "JUnit单元测试/图片/使用eclipseSDK环境2.png",
-    "JUnit单元测试/图片/使用eclipseSDK环境3.png",
-    "JUnit单元测试/图片/使用eclipseSDK环境1.png",
-    "JUnit单元测试/图片/使用eclipseSDK环境.png",
-    "JUnit单元测试/图片/使用eclipseSDK.png",
-    "JUnit单元测试/图片/屏幕截图 2024-11-21 154849.png",
-    "JUnit单元测试/图片/屏幕截图 2024-11-21 154920.png",
-    "JUnit单元测试/图片/屏幕截图 2024-11-21 154907.png",
-    "JUnit单元测试/图片/屏幕截图 2024-11-21 154513.png",
-    "Java面向对象编程.md"
+    "JUnit单元测试/图片/使用eclipseSDK环境3.png"
   ]
 }
