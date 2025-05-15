@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArchLinux下的java-14-openjdk的安装.md",
+                "file": "常用算法.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ArchLinux下的java-14-openjdk的安装"
+              "title": "常用算法"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ArchLinux下的java-14-openjdk的安装.md",
+                "file": "常用算法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ArchLinux下的java-14-openjdk的安装 的大纲"
+              "title": "常用算法 的大纲"
             }
           }
         ],
@@ -168,10 +168,10 @@
   },
   "active": "32de53b3a039c524",
   "lastOpenFiles": [
+    "ArchLinux下的java-14-openjdk的安装.md",
     "Pictures/deb包的转化.png",
     "Pictures/检查java环境.png",
     "().md",
-    "ArchLinux下的java-14-openjdk的安装.md",
     "Pictures/切换本地java版本.png",
     "Pictures/切换本地java版本2.png",
     "Pictures/切换本地java版本1.png",
@@ -191,7 +191,6 @@
     "switch和if的使用场景.md",
     "Java笔记.md",
     "desktop.ini",
-    "屏幕截图 2024-11-21 154920.png.md",
-    "JUnit单元测试/图片/使用eclipseSDK环境3.png"
+    "屏幕截图 2024-11-21 154920.png.md"
   ]
 }
