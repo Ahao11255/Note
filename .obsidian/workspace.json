@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Java中浮点数的精度丢失问题和解决方法.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -172,8 +172,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -181,21 +181,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5a5eccf01883e3a",
+  "active": "5ecf0b2999b9b02a",
   "lastOpenFiles": [
     "五-35-2025.md",
     "Java中浮点数的精度丢失问题和解决方法.md",
