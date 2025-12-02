@@ -1,4 +1,6 @@
 {
   "cssTheme": "Blue Topaz",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "accentColor": "#57c7ff",
+  "theme": "system"
 }

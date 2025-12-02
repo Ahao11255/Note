@@ -190,7 +190,7 @@ import static org.hamcrest.Matchers.*;
 
 ### 一般匹配符
 
-.**allOf**
+**allOf**
 
 - **作用**：要求所有条件均成立，测试才通过，相当于“与”（&&）。
 
