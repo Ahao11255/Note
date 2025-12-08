@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e1543d564d1c76d6",
+        "id": "c3f91d67a4285278",
         "type": "tabs",
         "children": [
           {
-            "id": "7c15182591c18563",
+            "id": "97792f8af4a4c5d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Java面向对象编程.md",
-                "mode": "preview",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Java面向对象编程"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -181,8 +181,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c15182591c18563",
+  "active": "97792f8af4a4c5d5",
   "lastOpenFiles": [
+    "Java面向对象编程.md",
     "Java中浮点数的精度丢失问题和解决方法.md",
     "Jmeter.md",
     "JUnit单元测试.md",
@@ -191,7 +192,6 @@
     "JUnit单元测试/JUnit单元测试.md",
     "未命名.md",
     "MySQL的DML操作.md",
-    "Java面向对象编程.md",
     "原码 反码 补码.md",
     "图.md",
     "二-05-2025.md",
