@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "2024和2025年软件测试赛项总结.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -181,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "328ff2ef68c1838b",
+  "active": "79cf1cb232379265",
   "lastOpenFiles": [
     "原码 反码 补码.md",
     "2024和2025年软件测试赛项总结.md",
