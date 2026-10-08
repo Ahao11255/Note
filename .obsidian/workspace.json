@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024和2025年软件测试赛项总结.md",
-                "mode": "preview",
+                "file": "05-计算机基础/原码反码补码.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024和2025年软件测试赛项总结"
+              "title": "原码反码补码"
             }
           }
         ]
@@ -162,6 +162,20 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "10cb9aca3d069f81",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
           }
         ],
         "currentTab": 4
@@ -185,6 +199,10 @@
   },
   "active": "79cf1cb232379265",
   "lastOpenFiles": [
+    "03-Web前端/04-CSS引入方式与选择器.md",
+    "03-Web前端/00-CSS属性速查表.md",
+    "00-知识图谱/知识图谱.canvas",
+    "00-知识图谱/知识图谱总览.md",
     "原码 反码 补码.md",
     "2024和2025年软件测试赛项总结.md",
     "Pictures/检查java环境.png",
@@ -222,7 +240,6 @@
     "Pictures",
     "JUnit单元测试/图片/自行导入jar包.png",
     "JUnit单元测试/图片/使用eclipseSDK环境2.png",
-    "desktop.ini",
-    "屏幕截图 2024-11-21 154920.png.md"
+    "desktop.ini"
   ]
 }

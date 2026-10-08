@@ -1,12 +1,37 @@
 {
   "collapse-filter": true,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"00-知识图谱\"",
+      "color": { "a": 1, "rgb": 16766720 }
+    },
+    {
+      "query": "path:\"01-Java\"",
+      "color": { "a": 1, "rgb": 16739179 }
+    },
+    {
+      "query": "path:\"02-C语言\"",
+      "color": { "a": 1, "rgb": 9662683 }
+    },
+    {
+      "query": "path:\"03-Web前端\"",
+      "color": { "a": 1, "rgb": 4569041 }
+    },
+    {
+      "query": "path:\"04-软件测试\"",
+      "color": { "a": 1, "rgb": 9883316 }
+    },
+    {
+      "query": "path:\"05-计算机基础\"",
+      "color": { "a": 1, "rgb": 16234289 }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
