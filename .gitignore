@@ -1,0 +1,13 @@
+# ── Obsidian 本地工作区状态 ──────────────────────────────────────────
+# workspace.json 记录的是「当前打开了哪些笔记、面板停在哪、光标在哪」，
+# 纯粹是本机的 UI 状态，你每点一下它就会变。提交它等于往仓库里倒噪音，
+# 还会让每台设备的 git 状态永远是脏的，所以不纳入版本管理。
+# 注意：设置类配置（app.json / graph.json / core-plugins.json / plugins/ 等）
+# 是「仓库应该长什么样」，需要跟着笔记一起同步，因此继续跟踪。
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# ── 操作系统自动生成的文件 ───────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
